@@ -61,6 +61,7 @@ This project is licensed under the MIT License.
 
 ## 📸 Output Screenshot
 ![image](https://github.com/user-attachments/assets/5c94fa4c-c020-4f11-95ef-9603896f0d30)
+![image](https://github.com/user-attachments/assets/b13741a0-00ea-4d10-9663-e4e9ae8058bc)
 
 ## 📅 Changelog
 - **v1.0** - Initial release with basic file backup functionality.
