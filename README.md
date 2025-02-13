@@ -59,7 +59,7 @@ A Python script that efficiently backs up files from a source directory to a des
 ## 📜 License
 This project is licensed under the MIT License.
 
-## 📸 Screenshots & Architecture Diagrams
+## 📸 Output Screenshot
 ![image](https://github.com/user-attachments/assets/5c94fa4c-c020-4f11-95ef-9603896f0d30)
 
 ## 📅 Changelog
