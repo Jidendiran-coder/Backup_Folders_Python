@@ -36,7 +36,8 @@ A Python script that efficiently backs up files from a source directory to a des
    python backup.py <source_directory> <destination_directory>
    ```
 2. The script will copy all files from `source_directory` to `destination_directory`.
-3. If a file already exists in the destination, it will be renamed with a timestamp.
+3. For your testing purpose we have provided "Test_Source_Folder" & "Test_Destination_Folder" in current path.
+4. If a file already exists in the destination, it will be renamed with a timestamp.
 
 ## 🔧 Configuration
 - Modify the script to change naming conventions, logging format, or add exclusions.
