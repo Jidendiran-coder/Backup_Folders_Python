@@ -23,17 +23,17 @@ A Python script that efficiently backs up files from a source directory to a des
 ## 📥 Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/backup-script.git
+   git clone https://github.com/Jidendiran-coder/Backup_Folders_Python.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd backup-script
+   cd Backup_Folders_Python
    ```
 
 ## 📝 Usage Instructions
 1. Run the script with the following command:
    ```bash
-   python backup.py <source_directory> <destination_directory>
+   python backup-copy.py <source_directory> <destination_directory>
    ```
 2. The script will copy all files from `source_directory` to `destination_directory`.
 3. For your testing purpose we have provided "Test_Source_Folder" & "Test_Destination_Folder" in current path.
@@ -54,6 +54,7 @@ A Python script that efficiently backs up files from a source directory to a des
 - Run the script with administrator privileges if permission errors occur.
 
 ## 🤝 Contribution Guidelines
+- ⭐ star the repository
 - Fork the repository and submit a pull request with improvements.
 
 ## 📜 License
